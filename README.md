@@ -1,7 +1,7 @@
 # ZXingObjC-Binaries
 
 This repository is an **unofficial** binary package of [ZXingObjC](https://github.com/zxingify/zxingify-objc), which is licensed under the Apache 2.0 License, created for ease of use.
-See `COPYING` and `NOTICE` for details.
+See `LICENSE` for details.
 
 ## ⚠️ For use in ModuleApps projects
 
