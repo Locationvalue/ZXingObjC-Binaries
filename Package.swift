@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZXingObjC-Binaries",
-            url: "https://github.com/Locationvalue/ZXingObjC-Binaries/releases/download/1.0.0/ZXingObjCBinary.xcframework.zip",
-            checksum: "43c1d35cd88de2fcf1f6b6b4405c3ff40d269f99ca509a6b2b03b660b9d3e6d2"
+            url: "https://github.com/Locationvalue/ZXingObjC-Binaries/releases/download/1.1.0/ZXingObjCBinary.xcframework.zip",
+            checksum: "1b99759c18bdae9c94852e8b68df480af744b16292c2e5d2a5aa243f84805690"
         )
     ]
 )
