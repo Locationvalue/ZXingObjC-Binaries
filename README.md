@@ -13,6 +13,7 @@ We do not provide any support, maintenance, or guarantees for external users. Pl
 - Updated IPHONEOS_DEPLOYMENT_TARGET to 16.0.
 - Compiled and packaged `(version) 3.6.9` as an XCFramework (binary distribution).
 - Added `Package.swift` to support Swift Package Manager (SPM).
+- Renamed classes and the module name with a `DO` prefix to resolve diamond dependency conflicts.
 
 ## Privacy Manifest
 This package currently does not include a `PrivacyInfo.xcprivacy` file because the upstream `ZXingObjC` repository does not provide one. 
